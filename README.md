@@ -12,7 +12,5 @@ Start by setting up a test geometry (like Crag or Squab) and remesh it for consi
 
 Once the effect looks good, render it out with **Karma** over 1–80 frames and export your animation through MPlay using FFmpeg.  
 
----
-
-**Submission:**  
-Submit both your Houdini `.hip` file and the rendered animation video (`.avi`). The render should clearly show the disintegration evolving over time and demonstrate control over masking, animation, and procedural effects.
+## Submission 
+Submit both your Houdini `.hip` file and the rendered animation video (`.mp4`). The render should clearly show the disintegration evolving over time and demonstrate control over masking, animation, and procedural effects.

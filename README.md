@@ -1,6 +1,7 @@
 # VFX Lab Submission - Nico Kong
 
-
+Final effect video:
+https://github.com/user-attachments/assets/366e89a5-143a-455c-9dab-fafa00115051
 
 # Assignment Description
 
